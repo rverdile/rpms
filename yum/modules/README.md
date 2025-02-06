@@ -17,7 +17,7 @@ These repositories were created for testing comps groups and module streams meta
 
 ### Module Streams
 |Module Name| Stream  |
-|--|--|--|--|--|--|--|--|--|--|
+|--|--|
 | Kangaroo | 0 |
 | Walrus | 0.71 |
 |        | 5.21 |
@@ -41,7 +41,7 @@ These repositories were created for testing comps groups and module streams meta
 
 ### Module Streams
 |Module Name| Stream  |
-|--|--|--|--|--|--|--|--|--|--|
+|--|--|
 | Duck | 0 |
 |      | 4 |
 |      | 5 |
